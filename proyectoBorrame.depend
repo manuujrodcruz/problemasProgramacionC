@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1742829574 source:/home/manuujrodcruz/workspace/tutoria/proyectoBorrame/main.c
+1742845120 source:/home/manuujrodcruz/workspace/tutoria/proyectoBorrame/main.c
 	<stdio.h>
 	<stdlib.h>
 	"ejerciciosPdf.h"
@@ -15,13 +15,29 @@
 	<stdlib.h>
 	"ciclosCondicionesFunciones.h"
 
-1742829672 /home/manuujrodcruz/workspace/tutoria/proyectoBorrame/ejerciciosPdf.h
+1742844936 /home/manuujrodcruz/workspace/tutoria/proyectoBorrame/ejerciciosPdf.h
 	"ejerciciosPdf/ciclosCondicionesFunciones/ejercicio1.h"
+	"ejerciciosPdf/ciclosCondicionesFunciones/ejercicio2.h"
+	"ejerciciosPdf/ciclosCondicionesFunciones/ejercicio3.h"
 
-1742829489 /home/manuujrodcruz/workspace/tutoria/proyectoBorrame/ejerciciosPdf/ciclosCondicionesFunciones/ejercicio1.h
+1742831592 /home/manuujrodcruz/workspace/tutoria/proyectoBorrame/ejerciciosPdf/ciclosCondicionesFunciones/ejercicio1.h
 
-1742829653 source:/home/manuujrodcruz/workspace/tutoria/proyectoBorrame/ejerciciosPdf/ciclosCondicionesFunciones/ejercicio1.c
+1742831592 source:/home/manuujrodcruz/workspace/tutoria/proyectoBorrame/ejerciciosPdf/ciclosCondicionesFunciones/ejercicio1.c
 	<stdio.h>
 	<stdlib.h>
 	"ejercicio1.h"
+
+1742843381 /home/manuujrodcruz/workspace/tutoria/proyectoBorrame/ejerciciosPdf/ciclosCondicionesFunciones/ejercicio2.h
+
+1742844462 source:/home/manuujrodcruz/workspace/tutoria/proyectoBorrame/ejerciciosPdf/ciclosCondicionesFunciones/ejercicio2.c
+	<stdio.h>
+	<stdlib.h>
+	"ejercicio2.h"
+
+1742844819 /home/manuujrodcruz/workspace/tutoria/proyectoBorrame/ejerciciosPdf/ciclosCondicionesFunciones/ejercicio3.h
+
+1742845129 source:/home/manuujrodcruz/workspace/tutoria/proyectoBorrame/ejerciciosPdf/ciclosCondicionesFunciones/ejercicio3.c
+	<stdio.h>
+	<stdlib.h>
+	"ejercicio3.h"
 
