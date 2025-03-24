@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1742829574 source:/home/manuujrodcruz/workspace/tutoria/proyectoBorrame/main.c
+	<stdio.h>
+	<stdlib.h>
+	"ejerciciosPdf.h"
+
+1742826462 source:/home/manuujrodcruz/workspace/tutoria/proyectoBorrame/ciclosCondicionesFunciones/ejercicio1.c
+	<stdio.h>
+	<stdlib.h>
+
+1742827684 /home/manuujrodcruz/workspace/tutoria/proyectoBorrame/librerias/ciclosCondicionesFunciones.h
+
+1742827953 source:/home/manuujrodcruz/workspace/tutoria/proyectoBorrame/librerias/ciclosCondicionesFunciones.c
+	<stdio.h>
+	<stdlib.h>
+	"ciclosCondicionesFunciones.h"
+
+1742829672 /home/manuujrodcruz/workspace/tutoria/proyectoBorrame/ejerciciosPdf.h
+	"ejerciciosPdf/ciclosCondicionesFunciones/ejercicio1.h"
+
+1742829489 /home/manuujrodcruz/workspace/tutoria/proyectoBorrame/ejerciciosPdf/ciclosCondicionesFunciones/ejercicio1.h
+
+1742829653 source:/home/manuujrodcruz/workspace/tutoria/proyectoBorrame/ejerciciosPdf/ciclosCondicionesFunciones/ejercicio1.c
+	<stdio.h>
+	<stdlib.h>
+	"ejercicio1.h"
+
